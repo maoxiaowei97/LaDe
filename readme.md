@@ -65,15 +65,3 @@ For the detailed running instructions of each task, plese see the corresponding 
 
 ![image](./img/tasks.png)
 
-## Cite
-If you find this helpful, please cite our paper:
-```shell
-@misc{wu2023lade,
-      title={LaDe: The First Comprehensive Last-mile Delivery Dataset from Industry}, 
-      author={Lixia Wu and Haomin Wen and Haoyuan Hu and Xiaowei Mao and Yutong Xia and Ergang Shan and Jianbin Zhen and Junhong Lou and Yuxuan Liang and Liuqing Yang and Roger Zimmermann and Youfang Lin and Huaiyu Wan},
-      year={2023},
-      eprint={2306.10675},
-      archivePrefix={arXiv},
-      primaryClass={cs.DB}
-} 
-```
