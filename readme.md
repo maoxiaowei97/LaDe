@@ -16,8 +16,8 @@ We believe that the large-scale, comprehensive, diverse feature of LaDe can offe
 
 
 ## 2 Dataset Download
-LaDe is composed of two subdatasets: i) [LaDe-D](https://huggingface.co/datasets/Cainiao-AI/LaDe-D), which comes from the package delivery scenario.
-ii) [LaDe-P](https://huggingface.co/datasets/Cainiao-AI/LaDe-P), which comes from the package pickup scenario. To facilitate the utilization of the dataset, each sub-dataset is presented in CSV format.
+LaDe is composed of two subdatasets: i) [LaDe-D](Anonymous-LaDe/Anonymous-LaDe), which comes from the package delivery scenario.
+ii) [LaDe-P](Anonymous-LaDe/Anonymous-LaDe), which comes from the package pickup scenario. To facilitate the utilization of the dataset, each sub-dataset is presented in CSV format.
 
 LaDe can be used for research purposes. Before you download the dataset, please read these terms. Then put the data into "/data/raw/".  
 The structure of "/data/raw/" should be like:  
